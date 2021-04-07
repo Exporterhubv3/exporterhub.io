@@ -1,6 +1,3 @@
-N/A
-
-
 ```
 fefefglglglglgl
 fef```
